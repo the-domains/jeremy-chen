@@ -1,7 +1,7 @@
 name: jeremy-chen
 favicon: null
-layout_spectrum: 0.49332
-typography_spectrum: 0.50251
+layout_spectrum: 0.495
+typography_spectrum: 0.86646
 title: "Jeremy Chen's Web Journal"
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#161218'
+    - '#999c9a'
+    - '#80807e'
+    - '#875245'
+    - '#acbab1'
   brandStrength: 0.3125
   lightness: 0.5
   saturation: 0.5

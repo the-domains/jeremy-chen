@@ -1,0 +1,28 @@
+name: jeremy-chen
+favicon: null
+layout_spectrum: 0.17376846843399107
+typography_spectrum: 0.2736681147944182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7542520666029304
+  lightness: 0.33933505904860795
+  saturation: 0.6951407145243138
+  rhythmicContrast: 0.19403773825615644
+purpose: []

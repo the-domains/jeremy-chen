@@ -1,7 +1,7 @@
 name: jeremy-chen
 favicon: null
-layout_spectrum: 0.17376846843399107
-typography_spectrum: 0.2736681147944182
+layout_spectrum: 0.24875
+typography_spectrum: 0.50251
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.7542520666029304
-  lightness: 0.33933505904860795
-  saturation: 0.6951407145243138
-  rhythmicContrast: 0.19403773825615644
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []

@@ -4,14 +4,14 @@
         <description><![CDATA[Jeremy Chen's Web Journal]]></description>
         <link>http://grid.jeremy-chen.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 05:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 16:35:30 GMT</lastBuildDate>
         <atom:link href="http://grid.jeremy-chen.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Entry #1]]></title>
-            <description><![CDATA[<article><h1>Entry #1</h1><p>It is rather unclear how to handle an event as momentous/unmomentous as a "first post on The Grid". As such, it might be appropriate to mark this first (and trial) post with content of appropriate profoundness/triviality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a33ee28299dad8debce7de49588e273daf21e65b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Entry #1</h1><p>It is rather unclear how to handle an event as momentous/unmomentous as a "first post on The Grid". As such, it might be appropriate to mark this first (and trial) post with content of appropriate profoundness/triviality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2739a24dc3ad04d7d4ce9432fdff726b3a62d830.jpg"></article>]]></description>
             <link>http://grid.jeremy-chen.org/entry-1/index.html</link>
             <guid isPermaLink="false">59bce84c-7e1f-426d-8600-f2bf6de74404</guid>
-            <pubDate>Sat, 02 Jan 2016 05:49:51 GMT</pubDate>
+            <pubDate>Sat, 02 Jan 2016 16:35:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
